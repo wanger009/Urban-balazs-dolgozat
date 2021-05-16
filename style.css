@@ -1,0 +1,85 @@
+.elsoresz{
+    margin-left: 350px;
+    width: 900px;
+    height: 1310px;
+    text-align: justify;
+    border: black 3px dotted;
+    background-color: pink;
+}
+
+.masodikresz{
+    margin-left: 350px;
+    width: 900px;
+    height: 220px;
+    text-align: justify;
+    border: black 3px dotted;
+    background-color: pink;
+    margin-top: 20px;
+}
+
+.macskak1{
+    margin-left:20px ;
+    margin-right: 20px;
+    width: 400px;
+    float: left;
+    background-color: rgb(161, 159, 159);
+    margin-bottom: 20px;
+    height: 1006px;
+}
+
+.macskak2{
+    margin-left:20px ;
+    margin-right: 20px;
+    width: 400px;
+    float: right;
+    background-color: rgb(161, 159, 159);
+    margin-bottom: 20px;
+}
+
+body{
+    background-image: url(hatter.png);
+}
+
+.kicsikep{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.Főcímek{
+    background-color: pink;
+    border: outset rgb(161, 159, 159) 5px;
+    border-radius: 20px;
+
+}
+
+.macseszok{
+    margin-left: 100px;
+
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover{
+color: white;
+}
+.kepg:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.kepekg{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.kicsitjobb1{
+    margin-left: 10px;
+    margin-right: 10px;
+}
